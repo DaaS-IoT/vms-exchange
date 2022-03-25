@@ -1,6 +1,6 @@
 {
   "name": "daas-vms-exchange",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "repository": "https://github.com/DaaS-IoT/vms-exchange",
   "description": "DaaS-IoT module for communication with VMSs",
   "main": "index.js",
